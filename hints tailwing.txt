@@ -1,0 +1,3 @@
+ctrl + space = hint menu
+
+ctrl + click = add cursor+
